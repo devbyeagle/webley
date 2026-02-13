@@ -1,5 +1,0 @@
-class HttpRequest:
-    def __init__(self):
-        self.path = ""
-        self.method = None
-        self.content_params = None
