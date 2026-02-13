@@ -1,22 +1,15 @@
-# Build directories and output
-build/
-dist/
-__pycache__/
-*.egg-info/
+# Ignore these filenames everywhere
+*~
+*.pyc
+*.pyo
 
-# Compiled object files, libraries, and executables
-*.so
-*.dylib
-*.pyd
-*.log
+# Build directories
+*.egg-info
+/build/
+/dist/
 
-# IDE/editor config files
-## Visual Studio
+# Ignore Visual Studio Code workspace files.
 .vscode/
 
-# JetBrains PyCharm
-.idea/
-*.iml
-
-# Backup and temporary files
-*~
+# Ignore mypy files
+.mypy_cache/
