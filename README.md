@@ -28,10 +28,10 @@ Webley is driven by its community, and contributions of all kinds are welcome!
 
 Whether you're fixing bugs, adding features, improving docs, or sharing ideas—your help makes Webley better for everyone.
 
-You can help continue the development by:
+<!-- You can help continue the development by:
 
 - [Contribute by improving the codebase](./.github/CONTRIBUTING.md)
-- [Suggest new features and report issues](https://github.com/devbyeagle/webley/issues)
+- [Suggest new features and report issues](https://github.com/devbyeagle/webley/issues) -->
 
 ## License
 
