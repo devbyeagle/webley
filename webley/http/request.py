@@ -1,7 +1,3 @@
 class HttpRequest:
-    def __init__(self):
+    def __init__(self) -> None:
         pass
-
-__all__ = [
-    "HttpRequest"
-]

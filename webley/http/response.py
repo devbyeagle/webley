@@ -1,7 +1,3 @@
 class HttpResponse:
-    def __init__(self, content=b"", *args, **kwargs):
+    def __init__(self, content=b"", *args, **kwargs) -> None:
         self.content = content
-
-__all__ = [
-    "HttpResponse"
-]
