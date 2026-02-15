@@ -1,13 +1,14 @@
 <p align="center">
-
+  <picture>
+  </picture>
   <h2 align="center">
-      Webley
+    Webley
   </h2>
 
   <p align="center">
   </p>
 
-[![PyPI](https://img.shields.io/pypi/v/webley?color=blue)](https://pypi.org/project/webley/)
+[![PyPI](https://img.shields.io/pypi/v/webley.svg)](https://pypi.org/project/webley/)
 
 </p>
 
@@ -21,17 +22,16 @@ Developing web applications in Python often involves juggling multiple libraries
 
 ## Contributing
 
-Webley exists thanks to the community!
+Webley is driven by its community, and contributions of all kinds are welcome!
 
-<!-- Webley grows stronger thanks to the efforts of our contributors!
+<!-- [![Contributors](https://contributors-img.web.app/image?repo=DevByEagle/webley)](https://github.com/DevByEagle/webley/graphs/contributors) -->
 
-[![Contributors](https://contributors-img.web.app/image?repo=DevByEagle/Webley)](https://github.com/DevByEagle/Webley/graphs/contributors) -->
+Whether you're fixing bugs, adding features, improving docs, or sharing ideas—your help makes Webley better for everyone.
 
-We welcome all contributions—bug fixes, new features, documentation improvements, or suggestions.
+You can help continue the development by:
 
-Before submitting a pull request, please read the contribution guidelines (Coming Soon) to help maintain consistency and quality.
-
-Thank you for helping make Webley better for everyone! 🚀
+- [Contribute by improving the codebase](./.github/CONTRIBUTING.md)
+- [Suggest new features and report issues](https://github.com/devbyeagle/webley/issues)
 
 ## License
 
