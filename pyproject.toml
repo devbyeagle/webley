@@ -4,18 +4,18 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "webley"
-version = "1.1.0.dev"
 description = ""
+version = "1.1.0.dev0"
 readme = "README.md"
 license = "MIT"
 classifiers = []
 requires-python = ">=3.10"
 
 [project.urls]
-Source = "https://github.com/DevByEagle/webley"
+Source = "https://github.com/devbyeagle/webley"
 
 [tool.mypy]
-exclude = "build"
+python_version = "3.10"
 show_error_codes = true
 pretty = true
 strict = true
