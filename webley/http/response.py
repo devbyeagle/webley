@@ -1,2 +1,7 @@
+import typing as t
+
 class Response:
-    pass
+    status_code = 200
+
+    def __init__(self) -> None:
+        pass

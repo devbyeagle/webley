@@ -1,5 +1,4 @@
 import webley as wb
 
-app = wb.Webley()
-
+app = wb.Webley('Webley Documentation')
 app.run()

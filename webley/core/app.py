@@ -1,9 +1,9 @@
 import typing as t
 
-from webley.http import Request, Response
+from webley.http import Response
 
 class Webley:
-    def __init__(self) -> None:
+    def __init__(self, project_name: str) -> None:
         pass
 
     def run(self) -> None:
