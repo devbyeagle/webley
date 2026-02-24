@@ -4,6 +4,7 @@
 from .app import Webley
 
 __all__ = list(
+    {"exceptions"} |
     {"Webley"}
 )
 
