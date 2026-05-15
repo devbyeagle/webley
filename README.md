@@ -35,4 +35,4 @@ Whether you're fixing bugs, adding features, improving docs, or sharing ideas—
 
 ## License
 
-Webley is licensed under the **Mozilla Public License 2.0.** See [LICENSE.txt](LICENSE.txt) for details.
+Webley is licensed under the **MIT License.** See [LICENSE.txt](LICENSE.txt) for details.
